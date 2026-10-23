@@ -1,0 +1,10 @@
+{
+  "documents": 100,
+  "vocabulary": 72,
+  "tokens": 7700,
+  "perplexity": 25.195879930304176,
+  "selected_seed": 43,
+  "purity": 0.8,
+  "NMI": 0.8652635066990572,
+  "ARI": 0.710021659886946
+}
